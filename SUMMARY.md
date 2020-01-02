@@ -8,6 +8,6 @@
 ## 东坡
 
 * [定风波·莫听穿林打叶声](dong-po/ding-feng-bo-mo-ting-chuan-lin-da-ye-sheng.md)
-* [前赤壁赋](dong-po/qian-chi-bi-fu.md)
+* [前赤壁赋](dong-po/qianchibifu.md)
 * [临江仙·送钱穆父](dong-po/lin-jiang-xian-song-qian-mu-fu.md)
 
